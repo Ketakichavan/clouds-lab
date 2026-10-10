@@ -1,0 +1,24 @@
+{
+  "phase": "0",
+  "environment": {
+    "cloud_shell": true
+  },
+  "python": {
+    "version": "3.12.3",
+    "ok": true
+  },
+  "gcloud": {
+    "account": "Ketaki.Chavan@eurecom.fr",
+    "project": "project-7e6f1b09-3657-48c1-a07",
+    "error": null
+  },
+  "docker": {
+    "version": "Docker version 29.8.2, build 7fc2dff",
+    "present": true
+  },
+  "git": {
+    "remote": "https://github.com/Ketakichavan/clouds-lab.git",
+    "is_github": true,
+    "slug": "Ketakichavan/clouds-lab"
+  }
+}
