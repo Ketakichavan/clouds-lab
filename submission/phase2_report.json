@@ -1,0 +1,30 @@
+{
+  "phase": "2",
+  "environment": {
+    "colab": true
+  },
+  "attention": {
+    "naive_ms": 753.276,
+    "vectorized_ms": 0.996,
+    "speedup": 756.3
+  },
+  "threads": {
+    "1": 2302.223,
+    "2": 2058.131,
+    "4": 2643.066,
+    "8": 2579.503
+  },
+  "devices": {
+    "cpu_ms": 426340.4,
+    "gpu_ms": 13935.1
+  },
+  "training": {
+    "steps": 2000,
+    "final_loss": 1.4813,
+    "param_count": 4935680
+  },
+  "sample": "\nCit no will edve did sin: ha, can then said\nUnsle covined the things of your sompeth\nThou nought the cloud me exilecters. What that, be aid?\nand mle no certain, noar contentince Henry\nand kinst wit ba",
+  "model": {
+    "gcs_url": "https://storage.googleapis.com/project-7e6f1b09-3657-48c1-a07-eurecomgpt/model.safetensors"
+  }
+}
